@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビターエチュード",
+  "base_artist": "明透",
+  "createdAt": "2025-12-22T06:59:01.800121Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビターエチュード",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_ビターエチュード_明透.txt"
+    }
+  ]
+}
